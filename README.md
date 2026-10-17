@@ -1,0 +1,1 @@
+Developed a comprehensive relational database management system in Oracle 10g for a Hospital Management System—encompassing entity-relationship modeling, database normalization up to 3NF across core operational entities, schema creation with integrity constraints, and advanced SQL querying including aggregate functions, subqueries, joins, and database views.   
